@@ -37,3 +37,5 @@
 # c ) To rename our branch 
  # Please note that Master and main are different branch 
 # Command git branch -M main  (To rename branch ) --- > Suppose you are having branch name as master then you can rename it to main by hitting above command 
+
+# This is end 
